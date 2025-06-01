@@ -15,8 +15,8 @@
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/Balaji1472/Image-Insight-AI.git
-cd Image-Insight-AI
+(https://github.com/Balaji1472/VisionChat-AI.git)
+cd VisionChat-AI
 ```
 
 ### **2. Set Up a Virtual Environment (Optional but Recommended)**

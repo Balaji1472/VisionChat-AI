@@ -15,7 +15,7 @@
 ### **1. Clone the Repository**
 
 ```bash
-(https://github.com/Balaji1472/VisionChat-AI.git)
+https://github.com/Balaji1472/VisionChat-AI.git
 cd VisionChat-AI
 ```
 

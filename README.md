@@ -1,6 +1,6 @@
-# Image Insight AI
+# VisionChat AI
 
-**Image Insight AI** is an advanced AI-powered chatbot that performs **text analysis** using the **Mistral 7B** model and **image feature extraction** using **MMProg**. The extracted features are converted into numerical data, which is processed by **Mistral 7B** to generate meaningful responses based on user queries.
+**VisionChat AI** is an advanced AI-powered chatbot that performs **text analysis** using the **Mistral 7B** model and **image feature extraction** using **MMProg**. The extracted features are converted into numerical data, which is processed by **Mistral 7B** to generate meaningful responses based on user queries.
 
 ## Features
 
